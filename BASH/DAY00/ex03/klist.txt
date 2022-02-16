@@ -1,0 +1,5 @@
+Credentials cache: API:DD0A0B10-0FC7-4CC8-9F6E-1F0E9C3BB231
+        Principal: lsaint-l@42LISBOA.COM
+
+  Issued                Expires               Principal
+Sep  7 16:43:15 2021  Sep  8 02:43:15 2021  krbtgt/42LISBOA.COM@42LISBOA.COM
